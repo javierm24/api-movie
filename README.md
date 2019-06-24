@@ -17,3 +17,4 @@
 | Ariel | Gatica | Codenotch
 | Ronald | Bustos |  Codenotch
 
+[para mas informacion](https://www.codenotch.com/)
