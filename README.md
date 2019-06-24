@@ -13,7 +13,6 @@
 2. npm install
 ```
 
-## **_CARACTERISTICAS_**
 
 ## **_EQUIPO_**
 
