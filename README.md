@@ -8,10 +8,12 @@
 
 ## **_CARACTERISTICAS_**
 
+## **_EQUIPO_**
+
 
 | nombre | apellido | bootcamp
 | --- | --- | --- |
 | Javier | Machado | Codenotch
 | Ariel | Gatica | Codenotch
-
+| Ronald | Bustos |  Codenotch
 
