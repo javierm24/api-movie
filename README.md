@@ -9,3 +9,9 @@
 ## **_CARACTERISTICAS_**
 
 
+| nombre | apellido | bootcamp
+| --- | --- | --- |
+| Javier | Machado | Codenotch
+| Ariel | Gatica | Codenotch
+
+
