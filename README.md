@@ -9,10 +9,10 @@
 ## **_INSTALACION_**
 
 ```
-1. npm init
+npm init
 ```
 ```
-2. npm install
+npm install
 ```
 
 
