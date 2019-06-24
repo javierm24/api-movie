@@ -6,6 +6,9 @@
 
 ## **_INSTALACION_**
 
+1. npm init
+2. npm install
+
 ## **_CARACTERISTICAS_**
 
 ## **_EQUIPO_**
