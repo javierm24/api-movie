@@ -1,3 +1,3 @@
 # API MOVIE
 
-<p align="left"> <img src="movie.png" width="200"/>  </p>
+<p align="left"> <img src="movie.png" width="150"/>  </p>
