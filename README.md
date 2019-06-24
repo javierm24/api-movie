@@ -11,7 +11,7 @@
 ## **_EQUIPO_**
 
 
-| nombre | apellido | bootcamp
+| Nombre | Apellido | Bootcamp
 | --- | --- | --- |
 | Javier | Machado | Codenotch
 | Ariel | Gatica | Codenotch
